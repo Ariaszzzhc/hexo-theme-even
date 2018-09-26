@@ -90,13 +90,23 @@ google_verification: j5dWC85DkoAfUR50W00ewfii3X9ouH55HnyBP6oZxGE
 # Disqus
 disqus_shortname: ahonn
 
-#Changyan
+# Changyan
 changyan:
   appid:
   appkey:
 
-#LiveRe
+# LiveRe
 livere_datauid:
+
+# Gittalk
+gitalk:
+  enable:
+  githubID:   
+  repo:
+  ClientID:
+  ClientSecret:
+  adminUser:
+  distractionFreeMode:
 
 # ===========================================
 # Version
